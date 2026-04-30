@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm (Sam) Serey Makara Kosal</h1>
-<h3 align="center">A passionate Software Development Student</h3>
+<h3 align="center">A Passionate Software Development Student</h3>
 
 
 
@@ -14,3 +14,16 @@
 - 🤝 I’m available for work.
 
 - 🔭 I’m currently working towards my Bachelors Degree in Software Development (Applied Computer Science).
+
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+  <div align="center"  class="icons-social" style="margin-left: 10px;">
+      <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/serey-makara-kosal-ab5569300/">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+  
+  </div>
+</p>
