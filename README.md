@@ -17,6 +17,28 @@
 
 
 <br/>
+<br/>
+<br/>
+<br/>
+
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Projects 🤝 </h3>
+
+<h3>
+  <a href="https://github.com/konradkelly/Cascadia-Gear-Co-op">
+    Cascadia-Gear-Co-op
+  </a>
+</h3>
+
+- Tech Stack: Node.js, Express, EJS, MySQL, Docker, AWS, Terraform, JavaScript, CSS, CI/CD Pipelines
+- Collaborated with a team that proactively self-learned half of the Tech Stack to make a professional Ecommerce platform for outdoor equipment.
+- Implemented server-side rendering for SEO-friendly initial page loads and RESTful API endpoints for dynamic client-side filtering and interaction.
+- Automated deployment using Docker Compose Watch mode and AWS infrastructure With Terraform, while integrating CI/CD pipelines via GitHub Action.
+
+
+
+<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
