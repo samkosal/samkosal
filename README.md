@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning React && React Native
 
-- 🌱 I’m currently Working on && Contributing to <a href="https://github.com/mermaid-js/mermaid" target="blank"> Mermaid.js </a>
+- 🌱 I’m currently Working on && Contributing to <a href="[https://github.com/mermaid-js/mermaid](https://github.com/mermaid-js/mermaid/issues/7392)" target="blank"> Mermaid.js </a>
 
 - 🤝 I’m available for work.
 
